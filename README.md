@@ -13,16 +13,16 @@ resources:
 *TestGuild -"UI Automation Using Playwright with Typescript" Course
 
 Concepts i have learnt:
--Playwright Installation
--basic structure of test(),expect() and their use cases
--async() and await() relationship
--common matchers and their use cases(.goto(),.tobevibible(),etc..)
--basic playwright commands
--browser modes and debugging
--test organisation using test.describe(),hooks,etc..
--locators
--using inspector and Xpath
--DOM Structure
--Playwright Configuration (playwright.config.ts)
+1-Playwright Installation
+2-basic structure of test(),expect() and their use cases
+3-async() and await() relationship
+4-common matchers and their use cases(.goto(),.tobevibible(),etc..)
+5-basic playwright commands
+6-browser modes and debugging
+7-test organisation using test.describe(),hooks,etc..
+8-locators
+9-using inspector and Xpath
+10-DOM Structure
+11-Playwright Configuration (playwright.config.ts)
 
 
